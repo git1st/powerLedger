@@ -1,4 +1,7 @@
 # powerledger 
+I have done the task all about the Jwt token base Authentication and Authorization to access the API's endpoints.
+
+Requirements:
 mysql database
 databasename: pldb
 username: root
